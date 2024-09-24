@@ -1,0 +1,11 @@
+---
+title: "Landscape composition influences the conservation value of shade coffee"
+subtitle: "Poster presented at the 2024 American Ornithological Society meeting"
+author: "Leah Crenshaw"
+date: "October DATE, 2024 | Estes Park, Colorado"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```

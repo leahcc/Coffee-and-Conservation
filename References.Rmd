@@ -17,4 +17,4 @@ knitr::opts_chunk$set(echo = TRUE)
 
 - **Golden-crowned Warbler** photo by Fernando Burgalin Sequeria available as [ML 178616651](https://macaulaylibrary.org/asset/178616651)
 
-- **Slate-throated Redstart** photo by 
+- **Slate-throated Redstart** photo by  

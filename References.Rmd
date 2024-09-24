@@ -2,7 +2,7 @@
 title: "References"
 author: "Leah Crenshaw"
 date: "2024-09-23"
-output: github_document
+output: html_document
 ---
 
 ```{r setup, include=FALSE}

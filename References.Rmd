@@ -10,7 +10,9 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ## Literature Cited
-
+1. Amanda's new paper about the postive yield and social effects of shade grown coffee
+2. any paper about increased abundance and diversity on shade grown farms
+3. Mixed species flock changes in farms 
 
 
 ## Photo Credits

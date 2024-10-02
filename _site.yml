@@ -1,6 +1,6 @@
 name: "AOS-2024"
 navbar:
-  title: "Our Collaborative Website"
+  title: "AOS 2024: Landscape Composition Influences the Conservation Value of Shade Coffee"
   left:
     - text: "Home"
       href: index.html

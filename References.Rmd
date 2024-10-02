@@ -1,7 +1,7 @@
 ---
-title: "References"
+title: "AOS Poster References"
 author: "Leah Crenshaw"
-date: "2024-09-23"
+date: ""
 output: html_document
 ---
 
@@ -10,13 +10,26 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ## Literature Cited
-1. Amanda's new paper about the postive yield and social effects of shade grown coffee
-2. any paper about increased abundance and diversity on shade grown farms
-3. Mixed species flock changes in farms 
+1. [Wright, D. R. Bennett, R. E., Selinske, M. J., Lentini, P. E., Garrard, G. E., Rodewald, A. D., and S. A. Bekessy. Biodiverse coffee plantations provide co-benefits without compromising yield. Journal of Sustainable Agriculture and Environment 3, (2024).](https://onlinelibrary.wiley.com/doi/full/10.1002/sae2.70005)
+
+2.	[Hernandez, S. M. et al. Do Shade-Grown Coffee Plantations Pose a Disease Risk for Wild Birds? EcoHealth 10, 145–158 (2013).](https://pubmed.ncbi.nlm.nih.gov/23636482/)
+
+3.	[Leyequién, E., de Boer, W. f. & Toledo, V. M. Bird Community Composition in a Shaded Coffee Agro-ecological Matrix in Puebla, Mexico: The Effects of Landscape Heterogeneity at Multiple Spatial Scales. Biotropica 42, 236–245 (2010).](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1744-7429.2009.00553.x)
+
+4.	[Colorado Zuluaga, G. J. & Rodewald, A. D. Response of mixed-species flocks to habitat alteration and deforestation in the Andes. Biological Conservation 188, 72–81 (2015).](https://www.sciencedirect.com/science/article/abs/pii/S0006320715000634)
+
 
 
 ## Photo Credits
 
-- **Golden-crowned Warbler** photo by Fernando Burgalin Sequeria available as [ML 178616651](https://macaulaylibrary.org/asset/178616651)
+- **Golden-crowned Warbler** photo by Fernando Burgalin Sequeria available in the Macaulay Library at [ML 178616651](https://macaulaylibrary.org/asset/178616651)
 
-- **Slate-throated Redstart** photo by  
+- **Slate-throated Redstart** photo by Bill Woods available in the Macaulay Library at [ML 559025201](https://macaulaylibrary.org/asset/559025201)
+
+- **Silver-throated Tanager** photo by Jon Pleizier available in the Macaulay Library at [ML 80369721](https://macaulaylibrary.org/asset/80369721)
+
+- **Wilson's Warbler** photo by Gualberto Becerra available in the Macaulay Library at [ML 194972171](https://macaulaylibrary.org/asset/194972171)
+
+- **Yellow-bellied Flycatcher** photo by Alexander Montero available in the Macaulay Library at [ML 310101601](https://macaulaylibrary.org/asset/310101601)
+
+

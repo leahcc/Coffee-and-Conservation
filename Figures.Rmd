@@ -1,0 +1,16 @@
+---
+title: "Additional Figures"
+author: "Leah Crenshaw | October 2nd, 2024 | Estes Park, Colorado"
+date: ""
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Additional Figures
+
+Here I'd like to share some of the original, full size figures included in the poster as well as some figures I produced during my analysis. 
+
+Using the transect count data, I analyzed both the abundance and richness of both resident and migratory birds encountered across the 6 possible treatment conditions (`High Landscape Forest Cover`: `Sun-coffee`, `Shade-coffee`, `Forest` | `Low Landscape Forest Cover`: `Sun-coffee`, `Shade-coffee`, `Forest`). 

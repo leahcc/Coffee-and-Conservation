@@ -2,7 +2,12 @@
 title: "Landscape composition influences the conservation value of shade coffee"
 author: "Leah Crenshaw | October 2nd, 2024 | Estes Park, Colorado"
 date: ""
-output: html_document
+output: 
+  html_document:
+    theme: cerulean
+    highlight: textmate
+    toc: false 
+    toc_float: false
 ---
 
 ```{r setup, include=FALSE}

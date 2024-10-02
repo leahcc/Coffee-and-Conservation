@@ -12,7 +12,7 @@ knitr::opts_chunk$set(echo = TRUE)
 Here I'd like to share some of the original, full size figures included in the poster as well as some figures I produced during my analysis.
 
 
-#### **Transect Count Analysis**
+## Transect Count Analysis
 
 Using the transect count data, I analyzed both the abundance and richness of both resident and migratory birds encountered across the 6 possible treatment conditions (`High Landscape Forest Cover`: `Sun-coffee`, `Shade-coffee`, `Forest` | `Low Landscape Forest Cover`: `Sun-coffee`, `Shade-coffee`, `Forest`). 
 
@@ -28,7 +28,7 @@ This figure is presented on the poster. We found that the species richness of re
 
 <br>
 
-#### **Species Encountered and Habitat Associations**
+## Species Encountered and Habitat Associations
 
 Below is the list of the 20 mostly commonly encountered species. On the left, you can see the total count observed, and on the right, you can see the distribution of habitats within which those species were observed.
 
@@ -43,7 +43,7 @@ Across all sites, we found more resident individuals than migratory individuals.
 
 <br>
 
-#### **Flocking Behavior**
+## Flocking Behavior
 
 During all transects, in addition to determining the species and counts of all birds encountered, we tracked whether those birds we participating in flocks and if yes, the flock identity. We collected these data to determine if the the propensity of birds to participate mixed-species flocks may vary across the landscape.
 
@@ -68,3 +68,25 @@ Farm and landscape features are related to flocking propensity of resident speci
 
 Flock participation did not vary among the two most abundant migrants.
 
+
+## Site Photos
+
+Here is the distribution of all sites in the landscape. The forest landcover is visible in this satellite image as the darkest green continuous vegetation. 
+
+![*Field Sites*](figures/FieldSites.jpg)
+
+<br>
+
+Additionally, I wanted to show some typical images of the sun-coffee, shade-coffee, and forest plots. The following images were taken at field sites used in this study. 
+
+<br>
+
+![*Sun-grown Coffee Plot*](figures/SunCoffee.jpg)
+
+<br>
+
+![*Shade-grown Coffee Plot*](figures/ShadeCoffee.jpg)
+
+<br>
+
+![*Typical Forest Plot, sorry the screen was a little sweaty.*](figures/Forest.jpg)

@@ -20,7 +20,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 
 
-## Photo Credits
+## Photo Credits 
 
 - **Golden-crowned Warbler** photo by Fernando Burgalin Sequeria available in the Macaulay Library at [ML 178616651](https://macaulaylibrary.org/asset/178616651)
 

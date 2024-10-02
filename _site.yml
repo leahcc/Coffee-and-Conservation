@@ -6,6 +6,10 @@ navbar:
       href: index.html
     - text: "Poster References"
       href: References.html
+    - text: "Additional Figures"
+      href: Figures.html
+    - text: "People"
+      href: People.html
 output_dir: "."
 output:
   html_document:

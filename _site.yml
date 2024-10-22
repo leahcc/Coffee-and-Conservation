@@ -1,15 +1,19 @@
-name: "AOS-2024"
+name: "LeahCrenshaw"
 navbar:
-  title: "AOS 2024: Landscape Composition Influences the Conservation Value of Shade Coffee"
+  title: ""
   left:
-    - text: "Home"
+    - text: "About Me"
+      href: AboutMe.html
+    - text: "Current Research"
       href: index.html
+    - text: "Additional Figures"
+      href: Figures.html
     - text: "People"
       href: People.html
     - text: "Poster References"
       href: References.html
-    - text: "Additional Figures"
-      href: Figures.html
+
+
 output_dir: "."
 output:
   html_document:

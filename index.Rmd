@@ -14,6 +14,7 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-**Thank you for stopping by my poster at the 2024 American Ornithological Society meeting. Here is a digital copy below. On this site, you can also find the references, a brief bio, and some additional figures.**
+**Thank you for checking out my research. Here is a digital copy of the poster I presented at the 2024 American Ornithological Society meeting. On this site, you can also find the references, a brief bio, and some additional figures.**
 
 ![2024 American Ornithological Society Poster](AOSPoster2024.jpg)
+

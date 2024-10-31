@@ -1,7 +1,5 @@
 ---
-title: "Landscape composition influences the conservation value of shade coffee"
-author: "Leah Crenshaw | October 2nd, 2024 | Estes Park, Colorado"
-date: ""
+title: "Leah C. Crenshaw"
 output: 
   html_document:
     theme: cerulean
@@ -10,11 +8,20 @@ output:
     toc_float: false
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+![The Rodewald Lab](RodewaldLabPhoto.JPG)
 
-**Thank you for checking out my research. Here is a digital copy of the poster I presented at the 2024 American Ornithological Society meeting. On this site, you can also find the references, a brief bio, and some additional figures.**
+<br>
 
-![2024 American Ornithological Society Poster](AOSPoster2024.jpg)
+### About Me
 
+My name is Leah Crenshaw, and I am a second-year Ph.D. student at Cornell University in the Department of Natural Resources and the Environment at Cornell University. I am working under the advisement of [**Dr. Amanda Rodewald**](https://cals.cornell.edu/amanda-d-rodewald), Garvin Professor and Sr. Director of the [Center for Avian Population Studies](https://www.birds.cornell.edu/home/center-for-avian-population-studies/) in the Cornell Lab of Ornithology. 
+
+I am passionate about working landscapes as win-win conservation scenarios wherein natural resources can be leveraged to support both human livelihood and biodiversity conservation. In the face of worldwide biodiversity, food security, and climate crises, I think that it is critical to identify working landscape management techniques that meet economic, social, and environmental needs. My dissertation research specifically focuses on identifying the effects of coffee agriculture on tropical bird communities in Panama. Working with the Cornell Lab of Ornithology and the Smithsonian Tropical Research Institute, I study how sustainable agroforestry growing practices influence the physical condition and flocking behaviors of birds. You can check out the results of my Jan-Mar of 2024 pilot season [here](https://leahcc.github.io/AOS-2024/index.html). 
+
+In my free time, I also volunteer banding songbirds with the Braddock Bay Bird Observatory and co-leading window collision data collection efforts with the Cornell Bird Friendly Campus Initiative.
+
+If you're interested in checking out my publication record and M.S. Thesis, you can find me on [ORCiD](https://orcid.org/0000-0001-7378-0173)!
+
+Finally, you can check out my CV below:
+
+<object data="CrenshawCV_230419.pdf" width="1000" height="1000" type='application/pdf'></object>

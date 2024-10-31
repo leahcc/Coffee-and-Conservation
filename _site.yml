@@ -3,9 +3,9 @@ navbar:
   title: ""
   left:
     - text: "About Me"
-      href: AboutMe.html
-    - text: "Current Research"
       href: index.html
+    - text: "Current Research"
+      href: AOS-2024.html
     - text: "Additional Figures"
       href: Figures.html
     - text: "People"

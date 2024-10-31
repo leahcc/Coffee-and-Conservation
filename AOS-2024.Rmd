@@ -1,0 +1,20 @@
+---
+title: "Landscape composition influences the conservation value of shade coffee"
+author: "Leah Crenshaw | October 2nd, 2024 | Estes Park, Colorado"
+date: ""
+output: 
+  html_document:
+    theme: cerulean
+    highlight: textmate
+    toc: false 
+    toc_float: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+**Thank you for checking out my research. Here is a digital copy of the poster I presented at the 2024 American Ornithological Society meeting. On this site, you can also find the references, a brief bio, and some additional figures.**
+
+![2024 American Ornithological Society Poster](AOSPoster2024.jpg)
+

@@ -25,3 +25,5 @@ If you're interested in checking out my publication record and M.S. Thesis, you 
 Finally, you can check out my CV below:
 
 <object data="CrenshawCV_230419.pdf" width="1000" height="1000" type='application/pdf'></object>
+
+ 

@@ -10,8 +10,8 @@ navbar:
           href: People.html
         - text: "2024 A.O.S."
           menu:
-            - text: "AOS 2024 Poster:
-              href: AOS-2024.html
+            - text: "AOS 2024 Poster:"
+              href: AOS-2024.html 
             - text: "2024 AOS - Additional Figures"
               href: Figures.html
             - text: "People"

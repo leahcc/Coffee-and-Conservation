@@ -7,16 +7,24 @@ navbar:
     - text: "Current Research"
       menu:
         - text: "2025 A.F.O."
-          href: People.html
-        - text: "2024 A.O.S."
           menu:
-            - text: "AOS 2024 Poster:"
-              href: AOS-2024.html 
-            - text: "2024 AOS - Additional Figures"
+            - text: "AFO 2025 Poster"
+              href: AFO-2025.html
+            - text: "References"
+              href: References.html
+            - text: "Additional Figures"
               href: Figures.html
             - text: "People"
               href: People.html
-            - text: "Poster References"
+        - text: "2024 A.O.S."
+          menu:
+            - text: "Poster"
+              href: AOS-2024.html 
+            - text: "Additional Figures"
+              href: Figures.html
+            - text: "People"
+              href: People.html
+            - text: "References"
               href: References.html
 
 

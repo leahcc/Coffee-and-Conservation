@@ -1,0 +1,20 @@
+---
+title: "Landscape-scale influences on the value of shade-coffee to birds in the Panamanian Highlands"
+author: "Leah Crenshaw | July 30, 2025 | Ogden, Utah"
+date: ""
+output: 
+  html_document:
+    theme: cerulean
+    highlight: textmate
+    toc: false 
+    toc_float: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+**Thank you for checking out my research. Here is a digital copy of the poster I presented at the 2025 Association of Field Ornithologists meeting. On this site, you can also find the references, a brief bio, and some additional figures.**
+
+![2025 AFO Poster](AFO2025Poster.jpg)
+

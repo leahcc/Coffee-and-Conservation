@@ -8,6 +8,10 @@ output:
     toc_float: false
 ---
 
+### Check out my AFO Poster, additional figures, and references through the `Current Research` > `2025 A.F.O` tabs above!
+
+
+
 ![The Rodewald Lab](RodewaldLabPhoto.JPG)
 
 <br>
@@ -25,5 +29,9 @@ If you're interested in checking out my publication record and M.S. Thesis, you 
 Finally, you can check out my CV below:
 
 <object data="CrenshawCV_230419.pdf" width="1000" height="1000" type='application/pdf'></object>
+
+
+Thank you for visiting!
+
 
  

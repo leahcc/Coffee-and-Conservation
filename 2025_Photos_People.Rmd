@@ -1,5 +1,5 @@
 ---
-title: "People"
+title: "2025 Photos and People"
 author: ""
 date: ""
 output: 
@@ -23,27 +23,27 @@ In 2025, I worked at the Smithsonian's Fortuna Field Station. My team included *
 <img src="figures/2025_Photos/Leah_and_Josue_Final_Field_Photo.jpg" alt="Leah and Josué after finishing the final survey." title="Leah and Josué after finishing the final survey."
 width="97.5%"/>
 
-## 2024 Field Season | Renacimiento, Chiriquí, Panamá
+## And here's some additional photos from the field!
 
-I was fortunate to be working closely with [**Katherine Araúz Ponce**](https://warnell.uga.edu/directory/people/katherine-arauz-ponce) who welcomed me to her field sites and project. 
+<img src="figures/2025_Photos/Coffee_Blossoms.jpg" alt="Coffee blossoms at Finca HRG." title="Coffee blossoms at Finca HRG.">
 
-I was also lucky to get to work this last season with **Donovan Pitti**, **Pedro L. Castillo-Caballero**, **Liliam Concepción**, and **Steven  Perez**. 
+<img src="figures/2025_Photos/Finca3Y.jpg" alt="The view of the orange orchard from Finca 3Y." title="The view of the orange orchard from Finca 3Y.">
 
-<br>
+<img src="figures/2025_Photos/Daily_Rainbow.jpg" alt="The daily rainbow viewed from the road to Pueblo Nuevo." title="The daily rainbow viewed from the road to Pueblo Nuevo.">
 
-![*Leah and Donovan after completing the final vegetation survey of the 2024 season!*](figures/LeahAndDonovan.jpg)
+<img src="figures/2025_Photos/Store_Cat_01.jpg" alt="Store Cat." title="Store Cat." width="24%"> <img src="figures/2025_Photos/Store_Cat_02.jpg" alt="Store Cat." title="Store Cat." width="24%"> <img src="figures/2025_Photos/Store_Cat_03.jpg" alt="Store Cat." title="Store Cat." width="42.75%">
 
-<br>
+<img src="figures/2025_Photos/Store_Dog_01.jpg" alt="Fonda Dog." title="Fonda Dog." width="91.75%">
 
-![*Leah, Katherine, and Pedro at the Feria de las Flores y del Café de Boquete*](figures/Leah Pedro and Katherine.jpg)
+<img src="figures/2025_Photos/BiBeetle.jpg" alt="A very big beetle." title="A very big beetle." width="42.75%"> <img src="figures/2025_Photos/Glass-winged_Butterfly.jpg" alt="Glass-winged Butterfly." title="Glass-winged Butterfly." width="24%"> <img src="figures/2025_Photos/Jumping_Spider.jpg" alt="Teeny Jumping Spider." title="Teeny Jumping Spider." width="24%"> 
 
-<br>
+<img src="figures/2025_Photos/Coco.jpg" alt="Coco, the sweetheart of the station" title="Coco, the sweetheart of the station." width="30.2%"> <img src="figures/2025_Photos/Taizon.jpg" alt="Taizon, named for Mike Tyson." title="Taizon, named for Mike Tyson." width="30.2%"> <img src="figures/2025_Photos/Cow.jpg" alt="Cow." title="Cow." width="30.2%"> 
 
-![*Leah, Pedro, and Ruth*](figures/LeahRuthPedro.JPG)
 
-<br>
 
-![*Leah measuring the tail of a White-throated Spadebill*](figures/Leah_WhiteThroatedSpadebill.jpg)
+
+
+
 
 
 

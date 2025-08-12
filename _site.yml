@@ -10,12 +10,12 @@ navbar:
           menu:
             - text: "AFO 2025 Poster"
               href: AFO-2025.html
-            - text: "References"
-              href: References.html
             - text: "Additional Figures"
               href: Figures.html
-            - text: "People"
-              href: People.html
+            - text: "Photos and People"
+              href: 2025_Photos_People.html
+            - text: "References"
+              href: References.html
         - text: "2024 A.O.S."
           menu:
             - text: "Poster"
